@@ -52,5 +52,5 @@ python [app.py](http://_vscodecontentref_/0)
 
 ### License
 ```sh
-This project is licensed under the MIT License. See LICENSE
+This project is licensed under the MIT License.
 ```
