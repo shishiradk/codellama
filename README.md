@@ -36,6 +36,8 @@ CodeLlama is an interactive code assistant powered by a local language model, de
 
 ```sh
 python [app.py](http://_vscodecontentref_/0)
+```
+
 
 Open the provided URL in your browser to interact with CodeGuru.
 
