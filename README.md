@@ -39,12 +39,18 @@ python [app.py](http://_vscodecontentref_/0)
 ```
 
 
-Open the provided URL in your browser to interact with CodeGuru.
+### Open the provided URL in your browser to interact with CodeGuru.
 
-File Structure
-[app.py](http://_vscodecontentref_/1) — Main application file with Gradio interface.
-modelfile — Model configuration for the LLM backend.
-.gradio/flagged/ — Stores flagged user interactions.
-[requirements.txt](http://_vscodecontentref_/2) — Python dependencies.
-License
+
+### File Structure
+```sh
+1.app.py — Main application file with Gradio interface.
+2.modelfile — Model configuration for the LLM backend.
+3. .gradio/flagged/ — Stores flagged user interactions.
+4.requirements.txt — Python dependencies.
+```
+
+### License
+```sh
 This project is licensed under the MIT License. See LICENSE
+```
