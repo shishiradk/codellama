@@ -34,21 +34,15 @@ CodeLlama is an interactive code assistant powered by a local language model, de
 
 ### Usage
 
-Start the web interface:
 ```sh
 python [app.py](http://_vscodecontentref_/0)
-
-
 
 Open the provided URL in your browser to interact with CodeGuru.
 
 File Structure
-app.py — Main application file with Gradio interface.
+[app.py](http://_vscodecontentref_/1) — Main application file with Gradio interface.
 modelfile — Model configuration for the LLM backend.
 .gradio/flagged/ — Stores flagged user interactions.
-requirements.txt — Python dependencies.
-
+[requirements.txt](http://_vscodecontentref_/2) — Python dependencies.
 License
-This project is licensed under the MIT License. See LICENSE for details.
-
-Created by Shishir. ``````
+This project is licensed under the MIT License. See LICENSE
